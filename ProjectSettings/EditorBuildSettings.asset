@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Donde Sea Menos Aqui/Scenes/MainMenu.unity
+    guid: f2f2f8bdc5a39db45ba3617adb96a9a6
+  - enabled: 1
+    path: Assets/Donde Sea Menos Aqui/Scenes/Credits.unity
+    guid: 8f3bcea02459118469952c520ce1655b
+  - enabled: 1
+    path: Assets/Donde Sea Menos Aqui/Scenes/StoreTest.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}

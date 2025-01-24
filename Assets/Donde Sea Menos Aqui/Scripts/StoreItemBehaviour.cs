@@ -31,7 +31,7 @@ public class StoreItemBehaviour : MonoBehaviour
         {
             gameObject.SetActive(false);
             //Aqui implementar la función del buff o lo que sea
-            PointsManager.Instance.SubtractPoints(10);
+            PointsManager.Instance.SubtractPoints(m_ItemCost);
         }
     }
 }
